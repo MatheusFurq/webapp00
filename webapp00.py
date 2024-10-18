@@ -7,7 +7,7 @@ db.fillna('', inplace=True)
 Escrever(db)
 
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("WILLIAN GOSTA DE ZOAR O AMADAEU")
+st.title("TUTORIAL BASICO DE PYTHON")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
 st.header("Hejheheheh! Prof. Massaki")
